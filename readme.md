@@ -2,4 +2,4 @@
 
 ### Analog and Digital Clock made with HTML, CSS and JavaScript
 
-![Preview Image](https://strong10mede.github.io/Analog_Digital_Clock/)
+[Preview](https://strong10mede.github.io/Analog_Digital_Clock/)
