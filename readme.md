@@ -4,4 +4,4 @@
 
 ![Preview](/analog_digital_clock.jpg)
  
-<html><head></head><div><iframe src="https://strong10mede.github.io/Analog_Digital_Clock/" height="400" width="400"></iframe</div>></html>
+## Link is here ... [Click me](https://strong10mede.github.io/Analog_Digital_Clock/)
